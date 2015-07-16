@@ -1,2 +1,2 @@
 # repo1
-Creating repo to lear Git
+Creating repo to learn Git
